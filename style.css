@@ -1,0 +1,124 @@
+*{
+    color: rgb(177, 177, 177);
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(29, 29, 63);
+}
+
+nav{
+    background-color: brown;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+}
+
+nav img{
+    width: 200px;
+}
+
+.h1 {
+    position: relative;
+    width: 600px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    bottom: -50px;
+}
+
+.art {
+    position: relative;
+    width: 600px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.faq {
+    position: relative;
+    width: 600px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.are {
+    position: relative;
+    width: 600px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.art2 {
+    position: absolute;
+    width: 300px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top: 250px;
+    left: 800px;
+
+}
+
+#Capybara {
+    color: darkorange;
+}
+
+#last {
+    color: darkorange;
+}
+
+#What {
+    color: darkorange;
+}
+
+#Where {
+    color: darkorange;
+}
+
+#Reproduction {
+    color: darkorange;
+}
+
+#endangered {
+    color: darkorange;
+}
+
+#Eat {
+    color: darkorange;
+}
+
+a:hover{
+    text-decoration: underline ;
+    color: red;
+}
+
+a:active{
+    text-decoration: underline ;
+    color: yellow;
+}
+
+footer {
+    background-color: brown;
+    padding: 0px;
+    margin: 0px;
+}
